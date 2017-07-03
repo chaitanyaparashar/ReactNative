@@ -1,0 +1,8 @@
+import React from 'react';
+import ReactDOM from 'react-dom';
+import App from './App.jsx';
+
+ReactDOM.render(
+  <App cat={4} txt="this is the prop text"/>,
+   document.getElementById('app')
+ );
