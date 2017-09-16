@@ -1,0 +1,47 @@
+[
+  {
+    "id": 0,
+    "title": "Webpack",
+    "description": "Webpack is a module bundler.It is very good for CommonJs/Amd and many more"
+  },
+  {
+    "id": 1,
+    "title": "React",
+    "description": "React make it painless to make interactive ui sections"
+  },
+  {
+    "id": 2,
+    "title": "Redux",
+    "description": "Redux is a predictable state container for javascript."
+  },
+  {
+    "id": 3,
+    "title": "React-Redux",
+    "description": "Webpack is a module bundler.It is very good for CommonJs/Amd and many more"
+  },
+  {
+    "id": 4,
+    "title": "Lodash",
+    "description": "Webpack is a module bundler.It is ery good for CommonJs/Amd and many more"
+  },
+  {
+    "id": 5,
+    "title": "Android",
+    "description": "Webpack is a module bundler.It is ery good for CommonJs/Amd and many more"
+  },
+  {
+    "id": 6,
+    "title": "EsLint",
+    "description": "If you want to include ESLint as part of your project's build system, we recommend installing it locally. You can do so using npm:"
+  },
+  {
+    "id": 7,
+    "title": "Babel",
+    "description": "Babel is a JavaScript compiler,Babel can also compile other versions of ECMAScript as well as React's JSX, but that is beyond the scope"
+  },
+  {
+    "id": 8,
+    "title": "Axios",
+    "description": "Axios is a Javascript library used to make http requests from node.js or  You can use npm if you want to run axios in node "
+  },
+]
